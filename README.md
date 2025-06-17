@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/verbwire-verbwire-mcp-server-badge.png)](https://mseep.ai/app/verbwire-verbwire-mcp-server)
+
 # Verbwire MCP Server
 
 An MCP server implementation that provides tools for interacting with the [Verbwire API](https://docs.verbwire.com/), allowing for blockchain operations like deploying smart contracts, minting NFTs, and managing IPFS storage.
